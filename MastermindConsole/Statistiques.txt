@@ -1,0 +1,6 @@
+﻿Toute modification apportée à ce fichier peut entrainer une instabilité du programme : 0
+Nombre de parties jouées : 37
+Nombre de victoires : 14
+Nombre de coups cumulés des victoires : 124
+Meilleur score en coups : 5
+Temps total cumulé de jeu : 1236
