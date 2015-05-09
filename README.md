@@ -1,7 +1,7 @@
 Mastermind
 
 A Mastermind game for your windows console. That is what programming in a mecanical engineering school looks like.
-There also is a graphic version included.
+There also is a graphic version not included.
 
 Features:
 - Play a game vs cpu
