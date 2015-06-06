@@ -8,3 +8,6 @@ Features:
 - invert roles, the computer should find your combinaison in 5 moves
 - cpu vs cpu
 - games and statistics automaticly saved
+
+
+Licence : MIT
