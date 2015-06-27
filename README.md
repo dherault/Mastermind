@@ -5,9 +5,9 @@ There also is a graphic version not included.
 
 Features:
 - Play a game vs cpu
-- invert roles, the computer should find your combinaison in 5 moves
-- cpu vs cpu
-- games and statistics automaticly saved
+- invert roles, the computer should find your combinaison in 5 moves or less
+- cpu vs cpu, watch'em compete 'til the end of time
+- games and statistics automatically saved
 
 
 Licence : MIT
